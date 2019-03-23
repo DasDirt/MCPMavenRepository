@@ -7,6 +7,9 @@
     <versions>
       <version>2.9.4-nightly-20150209</version>
     </versions>
+    <versions>
+      <version>3.2.1-stable</version>
+    </versions>
     <lastUpdated>20180225004628</lastUpdated>
   </versioning>
 </metadata>
